@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="6400266727513755129" datatype="html">
+        <source> AppComponent works with Angular <x id="INTERPOLATION" equiv-text="{{ ngVersion }}"/>! </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="967194890494667713" datatype="html">
+        <source>Say hello Gluon</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="695592819692878647" datatype="html">
+        <source>Hello, Gluon!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3481642240554951919" datatype="html">
+        <source> Welcome to Gluon Microfront Archetype | ShellLite</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/shell-lite/shell-lite.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

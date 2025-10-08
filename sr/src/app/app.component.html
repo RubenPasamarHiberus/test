@@ -1,0 +1,10 @@
+<img class="img" [src]="'assets/gluon.svg' | prefixAsset" alt="Gluon Logo" />
+<h1 i18n> AppComponent works with Angular {{ ngVersion }}! </h1>
+<san-floating-action-button
+  (click)="greet()"
+  i18n-label label="Say hello Gluon"
+  class="fit-content"
+  icon="false"
+/>
+<pre *ngIf="greeting">{{ greeting }}</pre>
+<router-outlet />
